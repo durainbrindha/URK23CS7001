@@ -1,0 +1,3 @@
+WORKING WITH REMOTE REPOSITORIES ON LOCAL MACHINE  initial stage
+
+Second message included in branch “SECOND”

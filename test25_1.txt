@@ -1,3 +1,4 @@
 WORKING WITH REMOTE REPOSITORIES ON LOCAL MACHINE  initial stage
 
-Second message included in branch “SECOND”
+Second message included in branch ï¿½SECONDï¿½
+Forth message included in branch ï¿½Forthï¿½

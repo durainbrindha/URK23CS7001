@@ -1,4 +1,7 @@
 WORKING WITH REMOTE REPOSITORIES ON LOCAL MACHINE  initial stage
 
-Second message included in branch �SECOND�
-Forth message included in branch �Forth�
+Second message included in branch  SECOND  
+Forth message included in branch  Forth 
+
+
+completed the collaboration -14.2.25
